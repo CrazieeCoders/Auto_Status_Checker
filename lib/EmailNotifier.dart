@@ -6,7 +6,7 @@ class EmailNotifier extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        child: Text("Auto Status Checker"),
+        child: Center(child: Text("Auto Status Checker")),
       ),
     );
   }

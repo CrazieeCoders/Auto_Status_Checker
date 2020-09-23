@@ -1,6 +1,4 @@
 import 'package:notification_mail/Db/Services.dart';
-import 'package:notification_mail/sendMail.dart';
-import 'package:workmanager/workmanager.dart';
 import 'Model/Transactions.dart';
 
 import 'package:mailer/mailer.dart';
